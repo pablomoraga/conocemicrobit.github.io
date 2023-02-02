@@ -69,7 +69,7 @@
   <string role="key" value="_intendedEndUserRoleType"></string>
   <unicode value=""></unicode>
   <string role="key" value="_isChanged"></string>
-  <bool value="0"></bool>
+  <bool value="1"></bool>
   <string role="key" value="_isTemplate"></string>
   <bool value="0"></bool>
   <string role="key" value="_lang"></string>
@@ -87,7 +87,7 @@
   <string role="key" value="_nextIdeviceId"></string>
   <int value="14"></int>
   <string role="key" value="_nextNodeId"></string>
-  <int value="15"></int>
+  <int value="16"></int>
   <string role="key" value="_nodeIdDict"></string>
   <dictionary>
    <unicode role="key" value="0"></unicode>
@@ -7132,7 +7132,7 @@ for the other options."></unicode>
   <string role="key" value="exe.engine.package.Package.persistenceVersion"></string>
   <int value="16"></int>
   <string role="key" value="exportMetadataType"></string>
-  <string value="LOMES"></string>
+  <unicode value="LOMES"></unicode>
   <string role="key" value="exportSource"></string>
   <bool value="1"></bool>
   <string role="key" value="footer"></string>
@@ -8232,11 +8232,11 @@ for the other options."></unicode>
   <string role="key" value="root"></string>
   <reference key="4"></reference>
   <string role="key" value="scolinks"></string>
-  <bool value="0"></bool>
+  <bool value="1"></bool>
   <string role="key" value="scowsinglepage"></string>
-  <bool value="0"></bool>
+  <bool value="1"></bool>
   <string role="key" value="scowwebsite"></string>
-  <bool value="0"></bool>
+  <bool value="1"></bool>
   <string role="key" value="style"></string>
   <unicode value="INTEF"></unicode>
   <string role="key" value="sugaractivityname"></string>
