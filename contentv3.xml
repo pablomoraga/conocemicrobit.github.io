@@ -69,7 +69,7 @@
   <string role="key" value="_intendedEndUserRoleType"></string>
   <unicode value=""></unicode>
   <string role="key" value="_isChanged"></string>
-  <bool value="0"></bool>
+  <bool value="1"></bool>
   <string role="key" value="_isTemplate"></string>
   <bool value="0"></bool>
   <string role="key" value="_lang"></string>
@@ -285,7 +285,7 @@
      <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
      <int value="2"></int>
      <string role="key" value="exportType"></string>
-     <string value="singlepage"></string>
+     <string value="website"></string>
      <string role="key" value="last_full_node_path"></string>
      <string value="exe-node:Interactuando%20con%20el%20mundo%20con%20Micro%3Abit"></string>
      <string role="key" value="parent"></string>
@@ -978,7 +978,7 @@
         <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
         <int value="2"></int>
         <string role="key" value="exportType"></string>
-        <string value="singlepage"></string>
+        <string value="website"></string>
         <string role="key" value="last_full_node_path"></string>
         <string value="exe-node:Interactuando%20con%20el%20mundo%20con%20Micro%3Abit:Conoce%20Micro%3Abit%20v.2"></string>
         <string role="key" value="parent"></string>
@@ -2531,7 +2531,7 @@ for the other options."></unicode>
         <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
         <int value="2"></int>
         <string role="key" value="exportType"></string>
-        <string value="singlepage"></string>
+        <string value="website"></string>
         <string role="key" value="last_full_node_path"></string>
         <string value="exe-node:Interactuando%20con%20el%20mundo%20con%20Micro%3Abit:Explora%20Micro%3Abit%20"></string>
         <string role="key" value="parent"></string>
@@ -2557,7 +2557,7 @@ for the other options."></unicode>
         <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
         <int value="2"></int>
         <string role="key" value="exportType"></string>
-        <string value="singlepage"></string>
+        <string value="website"></string>
         <string role="key" value="last_full_node_path"></string>
         <string value="exe-node:Interactuando%20con%20el%20mundo%20con%20Micro%3Abit:Misiones%20con%20MakeCode"></string>
         <string role="key" value="parent"></string>
@@ -2878,7 +2878,7 @@ for the other options."></unicode>
            <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
            <int value="2"></int>
            <string role="key" value="exportType"></string>
-           <string value="singlepage"></string>
+           <string value="website"></string>
            <string role="key" value="last_full_node_path"></string>
            <string value="exe-node:Interactuando%20con%20el%20mundo%20con%20Micro%3Abit:Misiones%20con%20MakeCode:01.%20Misi%C3%B3n%20Cero"></string>
            <string role="key" value="parent"></string>
@@ -3502,7 +3502,7 @@ for the other options."></unicode>
            <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
            <int value="2"></int>
            <string role="key" value="exportType"></string>
-           <string value="singlepage"></string>
+           <string value="website"></string>
            <string role="key" value="last_full_node_path"></string>
            <string value="exe-node:Interactuando%20con%20el%20mundo%20con%20Micro%3Abit:Misiones%20con%20MakeCode:02.%20Misi%C3%B3n%20Alarma%20Solar"></string>
            <string role="key" value="parent"></string>
@@ -4182,7 +4182,7 @@ for the other options."></unicode>
            <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
            <int value="2"></int>
            <string role="key" value="exportType"></string>
-           <string value="singlepage"></string>
+           <string value="website"></string>
            <string role="key" value="last_full_node_path"></string>
            <string value="exe-node:Interactuando%20con%20el%20mundo%20con%20Micro%3Abit:Misiones%20con%20MakeCode:03.%20Misi%C3%B3n%20%C2%A1Silencio%2C%20se%20estudia%21"></string>
            <string role="key" value="parent"></string>
@@ -4797,7 +4797,7 @@ for the other options."></unicode>
            <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
            <int value="2"></int>
            <string role="key" value="exportType"></string>
-           <string value="singlepage"></string>
+           <string value="website"></string>
            <string role="key" value="last_full_node_path"></string>
            <string value="exe-node:Interactuando%20con%20el%20mundo%20con%20Micro%3Abit:Misiones%20con%20MakeCode:04.%20Misi%C3%B3n%20Bola%20de%20Cristal"></string>
            <string role="key" value="parent"></string>
@@ -5465,7 +5465,7 @@ for the other options."></unicode>
            <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
            <int value="2"></int>
            <string role="key" value="exportType"></string>
-           <string value="singlepage"></string>
+           <string value="website"></string>
            <string role="key" value="last_full_node_path"></string>
            <string value="exe-node:Interactuando%20con%20el%20mundo%20con%20Micro%3Abit:Misiones%20con%20MakeCode:05.%20Misi%C3%B3n%20Bomba%3ABIT"></string>
            <string role="key" value="parent"></string>
@@ -6082,7 +6082,7 @@ for the other options."></unicode>
            <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
            <int value="2"></int>
            <string role="key" value="exportType"></string>
-           <string value="singlepage"></string>
+           <string value="website"></string>
            <string role="key" value="last_full_node_path"></string>
            <string value="exe-node:Interactuando%20con%20el%20mundo%20con%20Micro%3Abit:Misiones%20con%20MakeCode:06.%20Misi%C3%B3n%20Orientaci%C3%B3n"></string>
            <string role="key" value="parent"></string>
@@ -6629,7 +6629,7 @@ for the other options."></unicode>
            <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
            <int value="2"></int>
            <string role="key" value="exportType"></string>
-           <string value="singlepage"></string>
+           <string value="website"></string>
            <string role="key" value="last_full_node_path"></string>
            <string value="exe-node:Interactuando%20con%20el%20mundo%20con%20Micro%3Abit:Misiones%20con%20MakeCode:07.%20Misi%C3%B3n%20Equipo%20de%20radio"></string>
            <string role="key" value="parent"></string>
@@ -6658,7 +6658,7 @@ for the other options."></unicode>
         <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
         <int value="2"></int>
         <string role="key" value="exportType"></string>
-        <string value="singlepage"></string>
+        <string value="website"></string>
         <string role="key" value="last_full_node_path"></string>
         <string value="exe-node:Interactuando%20con%20el%20mundo%20con%20Micro%3Abit:Propuesta%20de%20Proyecto"></string>
         <string role="key" value="parent"></string>
@@ -7365,7 +7365,7 @@ for the other options."></unicode>
            <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
            <int value="2"></int>
            <string role="key" value="exportType"></string>
-           <string value="singlepage"></string>
+           <string value="website"></string>
            <string role="key" value="last_full_node_path"></string>
            <string value="exe-node:Interactuando%20con%20el%20mundo%20con%20Micro%3Abit:Propuesta%20de%20Proyecto:Proyecto%20Casa%20Inteligente"></string>
            <string role="key" value="parent"></string>
@@ -7575,7 +7575,7 @@ for the other options."></unicode>
         <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
         <int value="2"></int>
         <string role="key" value="exportType"></string>
-        <string value="singlepage"></string>
+        <string value="website"></string>
         <string role="key" value="last_full_node_path"></string>
         <string value="exe-node:Interactuando%20con%20el%20mundo%20con%20Micro%3Abit:Para%20ampliar"></string>
         <string role="key" value="parent"></string>
@@ -7627,7 +7627,7 @@ for the other options."></unicode>
   <string role="key" value="backgroundImgTile"></string>
   <bool value="0"></bool>
   <string role="key" value="currentNode"></string>
-  <reference key="139"></reference>
+  <reference key="19"></reference>
   <string role="key" value="dublinCore"></string>
   <instance class="exe.engine.package.DublinCore">
    <dictionary>
@@ -8119,7 +8119,42 @@ for the other options."></unicode>
         </instance>
        </list>
        <string role="key" value="learningResourceType"></string>
-       <list></list>
+       <list>
+        <instance class="exe.engine.lom.lomsubs.learningResourceTypeSub">
+         <dictionary>
+          <string role="key" value="extensiontype_"></string>
+          <none></none>
+          <string role="key" value="source"></string>
+          <instance class="exe.engine.lom.lomsubs.sourceValueSub">
+           <dictionary>
+            <string role="key" value="extensiontype_"></string>
+            <none></none>
+            <string role="key" value="string"></string>
+            <list></list>
+            <string role="key" value="uniqueElementName"></string>
+            <string value="source"></string>
+            <string role="key" value="valueOf_"></string>
+            <string value="LOM-ESv1.0"></string>
+           </dictionary>
+          </instance>
+          <string role="key" value="value"></string>
+          <instance class="exe.engine.lom.lomsubs.learningResourceTypeValueSub">
+           <dictionary>
+            <string role="key" value="extensiontype_"></string>
+            <none></none>
+            <string role="key" value="source"></string>
+            <none></none>
+            <string role="key" value="uniqueElementName"></string>
+            <string value="value"></string>
+            <string role="key" value="value"></string>
+            <none></none>
+            <string role="key" value="valueOf_"></string>
+            <string value="experiment"></string>
+           </dictionary>
+          </instance>
+         </dictionary>
+        </instance>
+       </list>
        <string role="key" value="semanticDensity"></string>
        <none></none>
        <string role="key" value="typicalAgeRange"></string>
@@ -8173,7 +8208,7 @@ for the other options."></unicode>
       <list></list>
       <string role="key" value="description"></string>
       <list>
-       <instance class="exe.engine.lom.lomsubs.descriptionSub">
+       <instance class="exe.engine.lom.lomsubs.LanguageStringSub">
         <dictionary>
          <string role="key" value="extensiontype_"></string>
          <none></none>
@@ -8201,7 +8236,7 @@ for the other options."></unicode>
            <string role="key" value="uniqueElementName"></string>
            <string value="catalog"></string>
            <string role="key" value="valueOf_"></string>
-           <unicode value="My Catalog"></unicode>
+           <string value="My Catalog"></string>
           </dictionary>
          </instance>
          <string role="key" value="entry"></string>
@@ -8210,7 +8245,7 @@ for the other options."></unicode>
            <string role="key" value="uniqueElementName"></string>
            <string value="entry"></string>
            <string role="key" value="valueOf_"></string>
-           <unicode value="4a7d755e-34a5-410a-a7d4-601881136623"></unicode>
+           <string value="4a7d755e-34a5-410a-a7d4-601881136623"></string>
           </dictionary>
          </instance>
         </dictionary>
@@ -8248,7 +8283,7 @@ for the other options."></unicode>
          </instance>
         </list>
         <string role="key" value="uniqueElementName"></string>
-        <none></none>
+        <string value="title"></string>
        </dictionary>
       </instance>
       <string role="key" value="uniqueElementName"></string>
@@ -8263,7 +8298,7 @@ for the other options."></unicode>
        <instance class="exe.engine.lom.lomsubs.contributeSub">
         <dictionary>
          <string role="key" value="date"></string>
-         <instance class="exe.engine.lom.lomsubs.dateSub" reference="143">
+         <instance class="exe.engine.lom.lomsubs.dateSub">
           <dictionary>
            <string role="key" value="dateTime"></string>
            <instance class="exe.engine.lom.lomsubs.DateTimeValueSub">
@@ -8295,14 +8330,14 @@ for the other options."></unicode>
            <string role="key" value="extensiontype_"></string>
            <none></none>
            <string role="key" value="uniqueElementName"></string>
-           <none></none>
+           <string value="date"></string>
            <string role="key" value="valueOf_"></string>
            <none></none>
           </dictionary>
          </instance>
          <string role="key" value="entity"></string>
          <list>
-          <instance class="exe.engine.lom.lomsubs.entitySub" reference="144">
+          <instance class="exe.engine.lom.lomsubs.VCardSub">
            <dictionary>
             <string role="key" value="extensiontype_"></string>
             <none></none>
@@ -8317,7 +8352,7 @@ for the other options."></unicode>
            <string role="key" value="extensiontype_"></string>
            <none></none>
            <string role="key" value="source"></string>
-           <instance class="exe.engine.lom.lomsubs.sourceValueSub" reference="145">
+           <instance class="exe.engine.lom.lomsubs.sourceValueSub">
             <dictionary>
              <string role="key" value="extensiontype_"></string>
              <none></none>
@@ -8354,7 +8389,7 @@ for the other options."></unicode>
       <string role="key" value="status"></string>
       <none></none>
       <string role="key" value="uniqueElementName"></string>
-      <none></none>
+      <string value="lifeCycle"></string>
       <string role="key" value="version"></string>
       <none></none>
      </dictionary>
@@ -8367,10 +8402,53 @@ for the other options."></unicode>
        <instance class="exe.engine.lom.lomsubs.contributeMetaSub">
         <dictionary>
          <string role="key" value="date"></string>
-         <reference key="143"></reference>
+         <instance class="exe.engine.lom.lomsubs.dateSub">
+          <dictionary>
+           <string role="key" value="dateTime"></string>
+           <instance class="exe.engine.lom.lomsubs.DateTimeValueSub">
+            <dictionary>
+             <string role="key" value="uniqueElementName"></string>
+             <string value="dateTime"></string>
+             <string role="key" value="valueOf_"></string>
+             <string value="2023-02-02T01:11:14.00+01:00"></string>
+            </dictionary>
+           </instance>
+           <string role="key" value="description"></string>
+           <instance class="exe.engine.lom.lomsubs.LanguageStringSub">
+            <dictionary>
+             <string role="key" value="extensiontype_"></string>
+             <none></none>
+             <string role="key" value="string"></string>
+             <list>
+              <instance class="exe.engine.lom.lomsubs.LangStringSub">
+               <dictionary>
+                <string role="key" value="language"></string>
+                <string value="es"></string>
+                <string role="key" value="valueOf_"></string>
+                <string value="Fecha de creaci\xc3\xb3n de los metadatos"></string>
+               </dictionary>
+              </instance>
+             </list>
+            </dictionary>
+           </instance>
+           <string role="key" value="extensiontype_"></string>
+           <none></none>
+           <string role="key" value="uniqueElementName"></string>
+           <string value="date"></string>
+           <string role="key" value="valueOf_"></string>
+           <none></none>
+          </dictionary>
+         </instance>
          <string role="key" value="entity"></string>
          <list>
-          <reference key="144"></reference>
+          <instance class="exe.engine.lom.lomsubs.VCardSub">
+           <dictionary>
+            <string role="key" value="extensiontype_"></string>
+            <none></none>
+            <string role="key" value="valueOf_"></string>
+            <string value="BEGIN:VCARD VERSION:3.0 FN:Juan Pablo Moraga Romero EMAIL;TYPE=INTERNET: ORG: END:VCARD"></string>
+           </dictionary>
+          </instance>
          </list>
          <string role="key" value="role"></string>
          <instance class="exe.engine.lom.lomsubs.roleSub">
@@ -8378,7 +8456,18 @@ for the other options."></unicode>
            <string role="key" value="extensiontype_"></string>
            <none></none>
            <string role="key" value="source"></string>
-           <reference key="145"></reference>
+           <instance class="exe.engine.lom.lomsubs.sourceValueSub">
+            <dictionary>
+             <string role="key" value="extensiontype_"></string>
+             <none></none>
+             <string role="key" value="string"></string>
+             <list></list>
+             <string role="key" value="uniqueElementName"></string>
+             <string value="source"></string>
+             <string role="key" value="valueOf_"></string>
+             <string value="LOM-ESv1.0"></string>
+            </dictionary>
+           </instance>
            <string role="key" value="uniqueElementName"></string>
            <string value="role"></string>
            <string role="key" value="value"></string>
@@ -8480,9 +8569,9 @@ for the other options."></unicode>
            <instance class="exe.engine.lom.lomsubs.LangStringSub">
             <dictionary>
              <string role="key" value="language"></string>
-             <string value="en"></string>
+             <string value="es"></string>
              <string role="key" value="valueOf_"></string>
-             <unicode value="Default"></unicode>
+             <string value="Default"></string>
             </dictionary>
            </instance>
           </list>
